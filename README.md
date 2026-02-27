@@ -1,4 +1,4 @@
-### Hi there 👋, Minhajul Islam | Aspiring Data Analyst & Python Developer
+### I'm Minhajul Islam | Aspiring Data Analyst & Python Developer
 #### Building practical skills in Python and Data Analysis through real projects.
 I am Minhajul Islam, a Sailor in the Bangladesh Navy with a strong passion for technology and problem-solving. I am currently building my skills as an aspiring Data Analyst, focusing on Python programming and practical data projects. My goal is to leverage my discipline and learning mindset from the Navy to create impactful, data-driven solutions and grow in the world of analytics and freelancing.
 
@@ -8,7 +8,7 @@ Skills: Python | HTML | CSS | Git & GitHub | Data Analysis | Data Visualization
 - 🌱 I’m currently learning Python  
 - 👯 I’m looking to collaborate on GitHub  
 - 🤔 I’m looking for help with Data Analysis  
-- 💬 Ask me about Html Css GitHub Python  
+- 💬 Ask me about Html/Css/GitHub/Python  
 - 📫 How to reach me: Facebook/LinkedIn/Gmail/Instagram  
 
 
